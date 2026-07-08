@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaind\\OneDrive\\Documents\\assignment\\assignment.csproj",
+      "projectUniqueName": "C:\\Users\\jaind\\OneDrive\\Documents\\.NET Assignments\\Day2Assignment\\assignment.csproj",
       "projectName": "assignment",
-      "projectPath": "C:\\Users\\jaind\\OneDrive\\Documents\\assignment\\assignment.csproj",
+      "projectPath": "C:\\Users\\jaind\\OneDrive\\Documents\\.NET Assignments\\Day2Assignment\\assignment.csproj",
       "packagesPath": "C:\\Users\\jaind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaind\\OneDrive\\Documents\\assignment\\obj\\",
+      "outputPath": "C:\\Users\\jaind\\OneDrive\\Documents\\.NET Assignments\\Day2Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaind\\AppData\\Roaming\\NuGet\\NuGet.Config"
