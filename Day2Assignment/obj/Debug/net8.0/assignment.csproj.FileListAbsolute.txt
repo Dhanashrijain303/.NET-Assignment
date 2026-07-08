@@ -1,0 +1,14 @@
+C:\Users\jaind\OneDrive\Documents\assignment\bin\Debug\net8.0\assignment.exe
+C:\Users\jaind\OneDrive\Documents\assignment\bin\Debug\net8.0\assignment.deps.json
+C:\Users\jaind\OneDrive\Documents\assignment\bin\Debug\net8.0\assignment.runtimeconfig.json
+C:\Users\jaind\OneDrive\Documents\assignment\bin\Debug\net8.0\assignment.dll
+C:\Users\jaind\OneDrive\Documents\assignment\bin\Debug\net8.0\assignment.pdb
+C:\Users\jaind\OneDrive\Documents\assignment\obj\Debug\net8.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaind\OneDrive\Documents\assignment\obj\Debug\net8.0\assignment.AssemblyInfoInputs.cache
+C:\Users\jaind\OneDrive\Documents\assignment\obj\Debug\net8.0\assignment.AssemblyInfo.cs
+C:\Users\jaind\OneDrive\Documents\assignment\obj\Debug\net8.0\assignment.csproj.CoreCompileInputs.cache
+C:\Users\jaind\OneDrive\Documents\assignment\obj\Debug\net8.0\assignment.dll
+C:\Users\jaind\OneDrive\Documents\assignment\obj\Debug\net8.0\refint\assignment.dll
+C:\Users\jaind\OneDrive\Documents\assignment\obj\Debug\net8.0\assignment.pdb
+C:\Users\jaind\OneDrive\Documents\assignment\obj\Debug\net8.0\assignment.genruntimeconfig.cache
+C:\Users\jaind\OneDrive\Documents\assignment\obj\Debug\net8.0\ref\assignment.dll

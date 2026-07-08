@@ -1,0 +1,14 @@
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\bin\Debug\net8.0\Day3Assingment.exe
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\bin\Debug\net8.0\Day3Assingment.deps.json
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\bin\Debug\net8.0\Day3Assingment.runtimeconfig.json
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\bin\Debug\net8.0\Day3Assingment.dll
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\bin\Debug\net8.0\Day3Assingment.pdb
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\obj\Debug\net8.0\Day3Assingment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\obj\Debug\net8.0\Day3Assingment.AssemblyInfoInputs.cache
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\obj\Debug\net8.0\Day3Assingment.AssemblyInfo.cs
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\obj\Debug\net8.0\Day3Assingment.csproj.CoreCompileInputs.cache
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\obj\Debug\net8.0\Day3Assingment.dll
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\obj\Debug\net8.0\refint\Day3Assingment.dll
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\obj\Debug\net8.0\Day3Assingment.pdb
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\obj\Debug\net8.0\Day3Assingment.genruntimeconfig.cache
+C:\Users\jaind\OneDrive\Documents\.NET Assignments\Day3Assingment\obj\Debug\net8.0\ref\Day3Assingment.dll
